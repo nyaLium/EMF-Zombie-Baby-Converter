@@ -3,7 +3,7 @@ Convert adult Zombie models into baby Zombie models
 
 中文说明
 
-Supported entities:：[README - CN.md](README - CN.md)
+Supported entities:：[README-CN.md](README.-.CN.md)
 
 | Entity | Input | Output |
 | --- | --- | --- |
