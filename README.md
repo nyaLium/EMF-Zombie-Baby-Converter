@@ -1,7 +1,9 @@
 # EMF-Zombie-Baby-Converter
 Convert adult Zombie models into baby Zombie models
 
-Supported entities:
+中文说明
+
+Supported entities:：[README - CN.md](README - CN.md)
 
 | Entity | Input | Output |
 | --- | --- | --- |
