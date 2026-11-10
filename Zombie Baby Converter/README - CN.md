@@ -1,6 +1,5 @@
 # 僵尸 → 幼年模型 转换器
 
-> English version: see `README - EN.md`
 > 命令行输出默认**英文**；在中文 Windows 上 bat 会自动切成中文，
 > 也可以手动加 `--zh` / `--en` 指定。
 
